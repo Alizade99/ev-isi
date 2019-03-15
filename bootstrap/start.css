@@ -1,0 +1,182 @@
+.header .menu ul li{
+    display: inline-block;
+    padding: 15px;
+    color: white;
+}
+.header .menu{
+    float:right;
+}
+.header{
+    padding: 15px 70px;
+    position:fixed;
+    left: 0;
+    top:0;
+    right: 0;
+    color: black;
+    z-index:200;
+    background: white
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+    padding-top: 8rem;
+    margin-top: -108px;
+}
+.clear{
+    clear: both;
+}
+.sekil {
+    min-height: 30rem;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+ }
+ .sekil h1{
+     color: white;
+     font-size: 65px;
+     text-align: center;
+     margin-top: 150px;
+ }
+ .sekil p{
+     color: white;
+     font-size: 20px;
+     text-align: center;
+ }
+ .sekil .duyme a{
+    background: #f24516;
+    color: #fff;
+    line-height: 80px;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 580px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.hisse2{
+    background: #f4623a;
+    height: 450px;
+}
+.hisse2 h2{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 60px 0;
+} 
+.hisse2 p{
+    font-size: 20px;
+    text-align: center;
+    padding: 60px 235px;
+    color: rgba(255,255,255,.5)
+}
+.hisse2 .duyme2{
+    background: #fff;
+    color: #f4623a;  
+    line-height: 30px;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 580px;
+    text-decoration: none;
+    border-radius: 20px;
+    width: 7%;
+}
+
+.servicesbox .icons{
+    background-color:white;
+    padding: 50px;
+    border-radius: 100px;
+    width: 12%;
+    text-align: center;
+    margin: auto;
+    color: #f24516;
+}
+.hisse3 .yazi3 h3{
+margin-left: 500px;
+padding: 60px 0;
+color:black;
+font-size: 35px;
+}
+.servicesbox p{
+    padding: 10px;
+    color: rgba(56, 46, 46, 0.5);
+    padding-left: 15px;
+     text-align: center;
+}
+.servicesbox h4{
+    padding: 10px;
+    color: 
+    padding-left: 15px;
+     text-align: center;
+}
+}
+.servicesboxes{
+    margin: 35px 0;
+}
+
+.hisse4 .sekil1{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/1.jpg);
+height: 300px;
+}
+.hisse4 .sekil2{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/2.jpg);
+    height: 300px;
+}
+.hisse4 .sekil3{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/3.jpg);
+    height: 300px;
+}
+.hisse4 .sekil4{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/4.jpg);
+    height: 300px;
+}
+.hisse4 .sekil5{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/5.jpg);
+    height: 300px;
+}
+.hisse4 .sekil6{
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/6.jpg);
+    height: 300px;
+}
+}
+.hisse4 .sekil1 div{
+background-color: aqua;
+width: 100%;
+height: 338px;
+position: absolute;
+left:0;
+top: 0;
+opacity: 0.5;
+display: none;
+}
+.hisse4 p{
+    font-size: 15px;
+}
+.hisse4 .sekil1{
+    position: relative;
+}
+
+.hisse5{
+    background-color: #343a40;
+    height: 300px;
+}
+.hisse5 h3{
+    font-size: 35px;
+    color: white;
+    padding: 100px 375px;
+}
+.hisse5 .duyme5{
+    background: #fff;
+    color: black;  
+    line-height: 29px;
+    padding: 16px 7px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-left: 555px;
+    text-decoration: none;
+    border-radius: 35px;
+    width: 14%;
+    text-align: center;
+    margin-top: -50px
+}
