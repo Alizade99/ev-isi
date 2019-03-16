@@ -14,9 +14,7 @@
     right: 0;
     color: black;
     z-index:200;
-    background: white
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
-    padding-top: 8rem;
+    background: white;
     margin-top: -108px;
 }
 .clear{
@@ -106,17 +104,16 @@ font-size: 35px;
 }
 .servicesbox h4{
     padding: 10px;
-    color: 
     padding-left: 15px;
      text-align: center;
 }
-}
+
 .servicesboxes{
     margin: 35px 0;
 }
 
 .hisse4 .sekil1{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/1.jpg);
+    background: url();
 height: 300px;
 }
 .hisse4 .sekil2{
@@ -139,17 +136,25 @@ height: 300px;
     background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/6.jpg);
     height: 300px;
 }
-}
-.hisse4 .sekil1 div{
-background-color: aqua;
-width: 100%;
-height: 338px;
-position: absolute;
-left:0;
-top: 0;
-opacity: 0.5;
-display: none;
-}
+
+.hisse4  .div{
+    background-color: aqua;
+
+    position: absolute;
+    left:0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.5;
+    display: none;
+    }
+    .sekil1:hover .div{
+       
+        display: block;
+        }
+    .hisse4  .div:hover{
+      display: block;
+        }
 .hisse4 p{
     font-size: 15px;
 }
