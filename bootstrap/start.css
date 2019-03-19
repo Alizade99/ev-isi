@@ -15,8 +15,10 @@
     color: black;
     z-index:200;
     background: white;
-    margin-top: -108px;
     background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+}
+.header a{
+    color: white;
 }
 .clear{
     clear: both;

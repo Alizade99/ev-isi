@@ -174,23 +174,17 @@ margin:30px 0;
     top: 0;
     right: 0;
     bottom: 0;
-    opacity: 0.;
+    opacity: 0.5;
     display: none;
 }
-.portbox:hover .div{
-    display: block;
+
+
+  .portbox .porttext{
+    position: absolute;
+    bottom:80px;
+    left:60px;
+    color: white;
   }
-  .portbox p{
-      position: relative;
-  }
-  .portbox p:hover{
-      display: block;
-  }
-
-
-
-
-
 
 .yazi4{
     margin-left: 450px;
