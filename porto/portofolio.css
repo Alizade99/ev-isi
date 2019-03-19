@@ -145,14 +145,20 @@ margin:30px 0;
 .servicesboxes{
     margin: 35px 0;
 }
+
+
+
+
+
 .portbox{
-    height: 300px;
-     margin: 15px;
-  
+    height: 410px;
+ 
+     position: relative;
 }
 .portbox:hover{
-    animation: emin 1.5s infinite;
+    animation: emin 0.5s;
 }
+
 @keyframes emin{
     0%{
         transform: scale(1);
@@ -161,6 +167,31 @@ margin:30px 0;
         transform: scale(0.8);
     }
 }
+.portbox  .div{
+    background-color: rgba(29,128,159,.9);
+    position: absolute;
+    left:0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.;
+    display: none;
+}
+.portbox:hover .div{
+    display: block;
+  }
+  .portbox p{
+      position: relative;
+  }
+  .portbox p:hover{
+      display: block;
+  }
+
+
+
+
+
+
 .yazi4{
     margin-left: 450px;
     padding: 40px 0;
@@ -198,6 +229,12 @@ font-size:50px;
         width: 65px;
         border-radius: 5px;
 }
+.duyme5 a{
+    color: black;
+}
+.duyme6 a{
+    color: white;
+}
 .yazi5 .duyme6{
     background: #343a40;
     color: wheat;
@@ -210,9 +247,23 @@ font-size:50px;
     margin-right: 60px;
      border-radius: 5px;
 }
+
 .row5{
     display: flex;
     text-align: center;
     margin-left: 450px;
-   
+}
+.son{
+    display: flex;
+  padding-top:60px;
+    justify-content: center;
+  }
+  .ikon{
+    color:white;
+    text-align: center;
+    background:#1d809f;
+    padding: 17px;
+    margin: 15px;
+    border-radius: 78px;
+    width: 2%;
 }

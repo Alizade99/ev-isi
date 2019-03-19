@@ -16,6 +16,7 @@
     z-index:200;
     background: white;
     margin-top: -108px;
+    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
 }
 .clear{
     clear: both;
@@ -80,6 +81,9 @@
     border-radius: 20px;
     width: 7%;
 }
+.duyme2 a{
+    color: black;
+}
 
 .servicesbox .icons{
     background-color:white;
@@ -107,39 +111,29 @@ font-size: 35px;
     padding-left: 15px;
      text-align: center;
 }
-
 .servicesboxes{
     margin: 35px 0;
 }
-
 .hisse4 .sekil1{
-    background: url();
-height: 300px;
+height: 242px;
 }
 .hisse4 .sekil2{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/2.jpg);
-    height: 300px;
+ height: 242px;
 }
 .hisse4 .sekil3{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/3.jpg);
-    height: 300px;
+    height: 242px;
 }
 .hisse4 .sekil4{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/4.jpg);
-    height: 300px;
+height: 242px;
 }
 .hisse4 .sekil5{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/5.jpg);
-    height: 300px;
+ height: 242px;
 }
 .hisse4 .sekil6{
-    background: url(https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/6.jpg);
-    height: 300px;
+ height: 242px;
 }
-
 .hisse4  .div{
-    background-color: aqua;
-
+    background-color: rgba(244,98,58,.9);
     position: absolute;
     left:0;
     top: 0;
@@ -147,21 +141,60 @@ height: 300px;
     bottom: 0;
     opacity: 0.5;
     display: none;
-    }
-    .sekil1:hover .div{
-       
-        display: block;
-        }
-    .hisse4  .div:hover{
-      display: block;
-        }
-.hisse4 p{
-    font-size: 15px;
+}
+.sekil1:hover .div{
+  display: block;
 }
 .hisse4 .sekil1{
     position: relative;
 }
-
+.sekil2:hover .div{
+    display: block;
+}
+.hisse4 .sekil2{
+position: relative;
+}
+.sekil3:hover .div{
+    display: block;
+}
+.hisse4 .sekil3{
+position: relative;
+}
+.sekil4:hover .div{
+    display: block;
+}
+.hisse4 .sekil4{
+position: relative;
+}
+.sekil5:hover .div{
+    display: block;
+}
+.hisse4 .sekil5{
+position: relative;
+}
+.sekil6:hover .div{
+    display: block;
+}
+.hisse4 .sekil6{
+position: relative;
+}
+.hisse4  .div:hover{
+ display: block;
+}
+.hisse4 p{
+    font-size: 25px;
+    color: white;
+    padding: 120px 130px;
+}
+.hisse4 p:hover{
+    display: block;
+}
+.sekil1:hover p{
+    display: block;
+}
+.duyme5 a{
+    color: black;
+}
 .hisse5{
     background-color: #343a40;
     height: 300px;
@@ -184,4 +217,30 @@ height: 300px;
     width: 14%;
     text-align: center;
     margin-top: -50px
+}
+.clear{
+    clear: both;
+}
+.hisse6 h2{
+    font-size: 39px;
+    color: black;
+    padding: 60px 480px;
+}
+.hisse6 p{
+    font-size: 20px;
+    padding: 0 364px;
+}
+.son .sonicon{
+    padding: 50px;
+    border-radius: 100px;
+    width: 170%;
+    text-align: center;
+    margin: auto;
+   
+}
+.hisse6 .son p{
+    font-size: 19px;
+    color: black;
+    padding: 24px 230px;
+    width: 200px;
 }
